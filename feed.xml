@@ -4,91 +4,91 @@
         <description><![CDATA[descrição blog]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Apr 2021 03:07:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Apr 2021 18:52:33 GMT</lastBuildDate>
         <author><![CDATA[Gustavo Lopes]]></author>
+        <item>
+            <title><![CDATA[NÃOTEMVOLTA]]></title>
+            <description><![CDATA[Edvaldo descarta retirada de assinaturas da CPI da Educação e diz que número pode aumentar de 9 para 11]]></description>
+            <guid isPermaLink="false">NÃOTEMVOLTA</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Wed, 21 Apr 2021 18:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ÉFOGO!]]></title>
+            <description><![CDATA[Incêndio destrói parte de casa abandonada no Cidade Nova na madrugada desta quarta-feira]]></description>
+            <guid isPermaLink="false">ÉFOGO!</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Wed, 21 Apr 2021 18:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SUACHANCE]]></title>
+            <description><![CDATA[Ufac divulga edital para mestrado em Ecologia e Manejo de Recursos Naturais]]></description>
+            <guid isPermaLink="false">SUACHANCE</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Wed, 21 Apr 2021 18:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMPASSENASAÚDE]]></title>
+            <description><![CDATA[Fundação Hospitalar diz que ampliou em 45% atendimento ortopédico em 2021]]></description>
+            <guid isPermaLink="false">IMPASSENASAÚDE</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Wed, 21 Apr 2021 18:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OPORTUNIDADE]]></title>
+            <description><![CDATA[Ifac abre inscrições para 480 vagas para cursos superiores em cinco municípios]]></description>
+            <guid isPermaLink="false">OPORTUNIDADE</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Wed, 21 Apr 2021 18:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LIVESOLIDÁRIA]]></title>
+            <description><![CDATA[Acreano realiza live em São Paulo para ajudar alagados através da campanha SOS ACRE]]></description>
+            <guid isPermaLink="false">LIVESOLIDÁRIA</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Wed, 21 Apr 2021 18:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AJUDANAPANDEMIA]]></title>
+            <description><![CDATA[Acre e nove Estados conseguiram prorrogar Lei Aldir Blanc para o setor cultural]]></description>
+            <guid isPermaLink="false">AJUDANAPANDEMIA</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Wed, 21 Apr 2021 18:52:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MUNDODOESPORTE]]></title>
             <description><![CDATA[Prosa de Pedal bate papo com ciclistas de mais de 60 anos no Acre]]></description>
             <guid isPermaLink="false">MUNDODOESPORTE</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Wed, 21 Apr 2021 18:52:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OPORTUNIDADE]]></title>
             <description><![CDATA[Ufac oferta bolsa de R$ 1,2 mil para pós-graduação na área da agropecuária]]></description>
             <guid isPermaLink="false">OPORTUNIDADE</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Wed, 21 Apr 2021 18:52:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DESCASONASEGURANÇA]]></title>
             <description><![CDATA[Servidores administrativos da Segurança que estão há 15 anos sem reajuste pedem ajuda]]></description>
             <guid isPermaLink="false">DESCASONASEGURANÇA</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Wed, 21 Apr 2021 18:52:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[APOIOAOPROJETO]]></title>
             <description><![CDATA[Neném Almeida visita centro de recuperação de dependentes químicos em Cruzeiro do Sul]]></description>
             <guid isPermaLink="false">APOIOAOPROJETO</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Wed, 21 Apr 2021 18:52:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CONTRAACIÊNCIA]]></title>
             <description><![CDATA[YouTube remove vídeo em que Bolsonaro fala de medicamentos sem eficácia contra Covid]]></description>
             <guid isPermaLink="false">CONTRAACIÊNCIA</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SUPOSTOESQUEMA]]></title>
-            <description><![CDATA[Gilmar Mendes suspende três ações da Lava Jato contra Arthur Lira por improbidade]]></description>
-            <guid isPermaLink="false">SUPOSTOESQUEMA</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CUIDADO,PÉDECANA]]></title>
-            <description><![CDATA[Uso abusivo de álcool pode reduzir imunidade e comprometer eficácia de vacinas]]></description>
-            <guid isPermaLink="false">CUIDADO,PÉDECANA</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PROBLEMAANTIGO]]></title>
-            <description><![CDATA[Antônia Sales e Calegário condenam salários atrasados em terceirizadas do governo]]></description>
-            <guid isPermaLink="false">PROBLEMAANTIGO</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CAOSTOTAL]]></title>
-            <description><![CDATA[Jenilson Leite solicita informações e marca audiência sobre situação da BR-364]]></description>
-            <guid isPermaLink="false">CAOSTOTAL</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SÓBURACOS]]></title>
-            <description><![CDATA[BR-364 está um caos de Rio Branco a Cruzeiro do Sul, denuncia Roberto Duarte]]></description>
-            <guid isPermaLink="false">SÓBURACOS</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LINHADEFRENTE]]></title>
-            <description><![CDATA[PL garante indenização a servidores que tenham contato com infectados com Covid-19]]></description>
-            <guid isPermaLink="false">LINHADEFRENTE</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BASEESTREMECIDA]]></title>
-            <description><![CDATA[Guedes volta a atacar Marcio Bittar e acusar o senador pela ‘lambança’ no orçamento]]></description>
-            <guid isPermaLink="false">BASEESTREMECIDA</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Wed, 21 Apr 2021 18:52:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

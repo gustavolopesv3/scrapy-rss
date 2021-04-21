@@ -28,10 +28,12 @@ const main = async () => {
   ).each((i, e) => {
     const titleCard = $(e).find("span").text().replace(/\s/g, "");
     const contentCard = $(e).find("h2").text();
-    const data = [{ titleCard, contentCard }];
+
+    let data = [{ titleCard, contentCard }];
     cards.push(data);
     try {
       createRss(data);
+      data = [];
     } catch (error) {
       console.log(error);
     }
@@ -43,7 +45,9 @@ function createRss(data) {
     feed.item({
       title: dados.titleCard,
       description: dados.contentCard,
-      date: "agora",
+      date: new Date().toLocaleString("en-US", {
+        timeZone: "America/Rio_Branco",
+      }),
     });
   }
   const xml = feed.xml({ indent: true });
