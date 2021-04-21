@@ -3,6 +3,7 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 const RSS = require("rss");
 const express = require("express");
+const xml = require("xml");
 
 router = express.Router();
 
@@ -41,13 +42,16 @@ const main = async () => {
 };
 
 function createRss(data) {
+  let data1 = new Date();
+
+  let data2 = new Date(data1.valueOf() - data1.getTimezoneOffset() * 120000);
+  var dataBase = data2.toISOString().replace(/\.\d{3}Z$/, "");
+
   for (const dados of data) {
     feed.item({
       title: dados.titleCard,
       description: dados.contentCard,
-      date: new Date().toLocaleString("en-US", {
-        timeZone: "America/Rio_Branco",
-      }),
+      date: dataBase,
     });
   }
   const xml = feed.xml({ indent: true });
