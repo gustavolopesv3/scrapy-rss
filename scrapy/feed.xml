@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Titulo blog]]></title>
+        <description><![CDATA[descrição blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 21 Apr 2021 02:13:13 GMT</lastBuildDate>
+        <author><![CDATA[Gustavo Lopes]]></author>
+        <item>
+            <title><![CDATA[MUNDODOESPORTE]]></title>
+            <description><![CDATA[Prosa de Pedal bate papo com ciclistas de mais de 60 anos no Acre]]></description>
+            <guid isPermaLink="false">MUNDODOESPORTE</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OPORTUNIDADE]]></title>
+            <description><![CDATA[Ufac oferta bolsa de R$ 1,2 mil para pós-graduação na área da agropecuária]]></description>
+            <guid isPermaLink="false">OPORTUNIDADE</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DESCASONASEGURANÇA]]></title>
+            <description><![CDATA[Servidores administrativos da Segurança que estão há 15 anos sem reajuste pedem ajuda]]></description>
+            <guid isPermaLink="false">DESCASONASEGURANÇA</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[APOIOAOPROJETO]]></title>
+            <description><![CDATA[Neném Almeida visita centro de recuperação de dependentes químicos em Cruzeiro do Sul]]></description>
+            <guid isPermaLink="false">APOIOAOPROJETO</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CONTRAACIÊNCIA]]></title>
+            <description><![CDATA[YouTube remove vídeo em que Bolsonaro fala de medicamentos sem eficácia contra Covid]]></description>
+            <guid isPermaLink="false">CONTRAACIÊNCIA</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SUPOSTOESQUEMA]]></title>
+            <description><![CDATA[Gilmar Mendes suspende três ações da Lava Jato contra Arthur Lira por improbidade]]></description>
+            <guid isPermaLink="false">SUPOSTOESQUEMA</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CUIDADO,PÉDECANA]]></title>
+            <description><![CDATA[Uso abusivo de álcool pode reduzir imunidade e comprometer eficácia de vacinas]]></description>
+            <guid isPermaLink="false">CUIDADO,PÉDECANA</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PROBLEMAANTIGO]]></title>
+            <description><![CDATA[Antônia Sales e Calegário condenam salários atrasados em terceirizadas do governo]]></description>
+            <guid isPermaLink="false">PROBLEMAANTIGO</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CAOSTOTAL]]></title>
+            <description><![CDATA[Jenilson Leite solicita informações e marca audiência sobre situação da BR-364]]></description>
+            <guid isPermaLink="false">CAOSTOTAL</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SÓBURACOS]]></title>
+            <description><![CDATA[BR-364 está um caos de Rio Branco a Cruzeiro do Sul, denuncia Roberto Duarte]]></description>
+            <guid isPermaLink="false">SÓBURACOS</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LINHADEFRENTE]]></title>
+            <description><![CDATA[PL garante indenização a servidores que tenham contato com infectados com Covid-19]]></description>
+            <guid isPermaLink="false">LINHADEFRENTE</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BASEESTREMECIDA]]></title>
+            <description><![CDATA[Guedes volta a atacar Marcio Bittar e acusar o senador pela ‘lambança’ no orçamento]]></description>
+            <guid isPermaLink="false">BASEESTREMECIDA</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+    </channel>
+</rss>
