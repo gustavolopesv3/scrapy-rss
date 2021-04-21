@@ -3,15 +3,23 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 const RSS = require("rss");
 const express = require("express");
-const xml = require("xml");
 
 router = express.Router();
-
-router.get("/teste", (req, res) => {
+setInterval(() => {
+  console.log("Nova requisição realizada");
   main();
-  res.send({
-    ok: true,
-  });
+}, 30000);
+// router.get("/teste", async (req, res) => {
+//   main();
+//   res.send({
+//     ok: true,
+//   });
+// });
+
+router.get("/feed", async (req, res) => {
+  const data = fs.readFileSync("./feed.xml");
+  res.set("Content-Type", "text/xml");
+  return res.send(data);
 });
 
 const fetchData = async (url) => {
@@ -35,6 +43,7 @@ const main = async () => {
     try {
       createRss(data);
       data = [];
+      console.log(data);
     } catch (error) {
       console.log(error);
     }
@@ -55,6 +64,7 @@ function createRss(data) {
     });
   }
   const xml = feed.xml({ indent: true });
+
   fs.writeFileSync("./feed.xml", xml);
 }
 
