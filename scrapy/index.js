@@ -2,6 +2,16 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
 const RSS = require("rss");
+const express = require("express");
+
+router = express.Router();
+
+router.get("/teste", (req, res) => {
+  main();
+  res.send({
+    ok: true,
+  });
+});
 
 const fetchData = async (url) => {
   const result = await axios.get(url);
@@ -28,10 +38,7 @@ const main = async () => {
   });
 };
 
-main();
-
 function createRss(data) {
-  console.log(data);
   for (const dados of data) {
     feed.item({
       title: dados.titleCard,
@@ -48,3 +55,5 @@ const feed = new RSS({
   description: "descrição blog",
   author: "Gustavo Lopes",
 });
+
+module.exports = router;

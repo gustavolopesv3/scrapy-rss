@@ -2,7 +2,7 @@
 
 const Hapi = require("@hapi/hapi");
 
-const scrapSteam = require("../scrapy");
+scrapper = require("./scrapy/scrapper");
 
 const init = async () => {
   const server = Hapi.server({
@@ -12,9 +12,9 @@ const init = async () => {
 
   server.route({
     method: "GET",
-    path: "/deals",
+    path: "/posts",
     handler: async (request, h) => {
-      const result = await scrapSteam();
+      const result = await main();
       return result;
     },
   });
