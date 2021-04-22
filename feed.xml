@@ -4,175 +4,91 @@
         <description><![CDATA[descrição blog]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Apr 2021 20:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 02:03:28 GMT</lastBuildDate>
         <author><![CDATA[Gustavo Lopes]]></author>
         <item>
-            <title><![CDATA[NÃOTEMVOLTA]]></title>
+            <title><![CDATA[VAI PRO SENADO]]></title>
+            <description><![CDATA[Projeto que retoma ensino presencial na pandemia é aprovado na Câmara dos Deputados]]></description>
+            <guid isPermaLink="false">VAI PRO SENADO</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NÃO TEM VOLTA]]></title>
             <description><![CDATA[Edvaldo descarta retirada de assinaturas da CPI da Educação e diz que número pode aumentar de 9 para 11]]></description>
-            <guid isPermaLink="false">NÃOTEMVOLTA</guid>
+            <guid isPermaLink="false">NÃO TEM VOLTA</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:07:55 GMT</pubDate>
+            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ÉFOGO!]]></title>
+            <title><![CDATA[É FOGO!]]></title>
             <description><![CDATA[Incêndio destrói parte de casa abandonada no Cidade Nova na madrugada desta quarta-feira]]></description>
-            <guid isPermaLink="false">ÉFOGO!</guid>
+            <guid isPermaLink="false">É FOGO!</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:07:55 GMT</pubDate>
+            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SUACHANCE]]></title>
+            <title><![CDATA[SUA CHANCE]]></title>
             <description><![CDATA[Ufac divulga edital para mestrado em Ecologia e Manejo de Recursos Naturais]]></description>
-            <guid isPermaLink="false">SUACHANCE</guid>
+            <guid isPermaLink="false">SUA CHANCE</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:07:55 GMT</pubDate>
+            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IMPASSENASAÚDE]]></title>
+            <title><![CDATA[IMPASSE NA SAÚDE]]></title>
             <description><![CDATA[Fundação Hospitalar diz que ampliou em 45% atendimento ortopédico em 2021]]></description>
-            <guid isPermaLink="false">IMPASSENASAÚDE</guid>
+            <guid isPermaLink="false">IMPASSE NA SAÚDE</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:07:55 GMT</pubDate>
+            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OPORTUNIDADE]]></title>
             <description><![CDATA[Ifac abre inscrições para 480 vagas para cursos superiores em cinco municípios]]></description>
             <guid isPermaLink="false">OPORTUNIDADE</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:07:55 GMT</pubDate>
+            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[LIVESOLIDÁRIA]]></title>
+            <title><![CDATA[LIVE SOLIDÁRIA]]></title>
             <description><![CDATA[Acreano realiza live em São Paulo para ajudar alagados através da campanha SOS ACRE]]></description>
-            <guid isPermaLink="false">LIVESOLIDÁRIA</guid>
+            <guid isPermaLink="false">LIVE SOLIDÁRIA</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:07:55 GMT</pubDate>
+            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AJUDANAPANDEMIA]]></title>
+            <title><![CDATA[AJUDA NA PANDEMIA]]></title>
             <description><![CDATA[Acre e nove Estados conseguiram prorrogar Lei Aldir Blanc para o setor cultural]]></description>
-            <guid isPermaLink="false">AJUDANAPANDEMIA</guid>
+            <guid isPermaLink="false">AJUDA NA PANDEMIA</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:07:55 GMT</pubDate>
+            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MUNDODOESPORTE]]></title>
+            <title><![CDATA[MUNDO DO ESPORTE]]></title>
             <description><![CDATA[Prosa de Pedal bate papo com ciclistas de mais de 60 anos no Acre]]></description>
-            <guid isPermaLink="false">MUNDODOESPORTE</guid>
+            <guid isPermaLink="false">MUNDO DO ESPORTE</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:07:55 GMT</pubDate>
+            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RELAÇÃODOMAL]]></title>
+            <title><![CDATA[RELAÇÃO DO MAL]]></title>
             <description><![CDATA[Jovem se envolve com mulher de presidiário e é executado a tiros]]></description>
-            <guid isPermaLink="false">RELAÇÃODOMAL</guid>
+            <guid isPermaLink="false">RELAÇÃO DO MAL</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:07:55 GMT</pubDate>
+            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OPORTUNIDADE]]></title>
             <description><![CDATA[Ufac oferta bolsa de R$ 1,2 mil para pós-graduação na área da agropecuária]]></description>
             <guid isPermaLink="false">OPORTUNIDADE</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:07:55 GMT</pubDate>
+            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DESCASONASEGURANÇA]]></title>
+            <title><![CDATA[DESCASO NA SEGURANÇA]]></title>
             <description><![CDATA[Servidores administrativos da Segurança que estão há 15 anos sem reajuste pedem ajuda]]></description>
-            <guid isPermaLink="false">DESCASONASEGURANÇA</guid>
+            <guid isPermaLink="false">DESCASO NA SEGURANÇA</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:07:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MEDODESAIR]]></title>
-            <description><![CDATA[Visita do Igesac na UPA da Sobral gera temor entre servidores]]></description>
-            <guid isPermaLink="false">MEDODESAIR</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:07:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NÃOTEMVOLTA]]></title>
-            <description><![CDATA[Edvaldo descarta retirada de assinaturas da CPI da Educação e diz que número pode aumentar de 9 para 11]]></description>
-            <guid isPermaLink="false">NÃOTEMVOLTA</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ÉFOGO!]]></title>
-            <description><![CDATA[Incêndio destrói parte de casa abandonada no Cidade Nova na madrugada desta quarta-feira]]></description>
-            <guid isPermaLink="false">ÉFOGO!</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SUACHANCE]]></title>
-            <description><![CDATA[Ufac divulga edital para mestrado em Ecologia e Manejo de Recursos Naturais]]></description>
-            <guid isPermaLink="false">SUACHANCE</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMPASSENASAÚDE]]></title>
-            <description><![CDATA[Fundação Hospitalar diz que ampliou em 45% atendimento ortopédico em 2021]]></description>
-            <guid isPermaLink="false">IMPASSENASAÚDE</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OPORTUNIDADE]]></title>
-            <description><![CDATA[Ifac abre inscrições para 480 vagas para cursos superiores em cinco municípios]]></description>
-            <guid isPermaLink="false">OPORTUNIDADE</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LIVESOLIDÁRIA]]></title>
-            <description><![CDATA[Acreano realiza live em São Paulo para ajudar alagados através da campanha SOS ACRE]]></description>
-            <guid isPermaLink="false">LIVESOLIDÁRIA</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AJUDANAPANDEMIA]]></title>
-            <description><![CDATA[Acre e nove Estados conseguiram prorrogar Lei Aldir Blanc para o setor cultural]]></description>
-            <guid isPermaLink="false">AJUDANAPANDEMIA</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MUNDODOESPORTE]]></title>
-            <description><![CDATA[Prosa de Pedal bate papo com ciclistas de mais de 60 anos no Acre]]></description>
-            <guid isPermaLink="false">MUNDODOESPORTE</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RELAÇÃODOMAL]]></title>
-            <description><![CDATA[Jovem se envolve com mulher de presidiário e é executado a tiros]]></description>
-            <guid isPermaLink="false">RELAÇÃODOMAL</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OPORTUNIDADE]]></title>
-            <description><![CDATA[Ufac oferta bolsa de R$ 1,2 mil para pós-graduação na área da agropecuária]]></description>
-            <guid isPermaLink="false">OPORTUNIDADE</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DESCASONASEGURANÇA]]></title>
-            <description><![CDATA[Servidores administrativos da Segurança que estão há 15 anos sem reajuste pedem ajuda]]></description>
-            <guid isPermaLink="false">DESCASONASEGURANÇA</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MEDODESAIR]]></title>
-            <description><![CDATA[Visita do Igesac na UPA da Sobral gera temor entre servidores]]></description>
-            <guid isPermaLink="false">MEDODESAIR</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 15:08:24 GMT</pubDate>
+            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
