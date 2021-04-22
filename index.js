@@ -9,11 +9,6 @@ const port = process.env.PORT || 3333;
 api.use(cors());
 
 api.use('/posts', main);
-api.get('/', async (req, res) => {
-  res.send({
-    Feed,
-  });
-});
 
 api.listen(port, host, function () {
   console.log(`Server started... ${port}`);
