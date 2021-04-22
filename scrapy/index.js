@@ -51,7 +51,7 @@ function createRss(cards) {
   let feed = new RSS({
     title: 'Titulo blog',
     description: 'descrição blog',
-    author: 'Gustavo Lopes',
+    //author: 'Gustavo Lopes',
   });
   let data1 = new Date();
 

@@ -5,7 +5,7 @@
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
         <lastBuildDate>Thu, 22 Apr 2021 13:55:22 GMT</lastBuildDate>
-        <author><![CDATA[Gustavo Lopes]]></author>
+        <!-- <author><![CDATA[Gustavo Lopes]]></author> -->
         <item>
             <title><![CDATA[CORRIDA PELA IMUNIZAÇÃO]]></title>
             <description><![CDATA[Busca por informação sobre vacina a portadores de comorbidades em Tarauacá]]></description>
