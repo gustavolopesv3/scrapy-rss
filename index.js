@@ -15,6 +15,6 @@ api.get('/', async (req, res) => {
   });
 });
 
-app.listen(port, host, function () {
+api.listen(port, host, function () {
   console.log(`Server started... ${port}`);
 });
