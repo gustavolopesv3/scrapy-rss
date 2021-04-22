@@ -1,9 +1,15 @@
-const express = require("express");
+const express = require('express');
 const api = express();
-const main = require("./scrapy/index");
+const main = require('./scrapy/index');
+const cors = require('cors');
 
-api.use("/posts", main);
+const host = '0.0.0.0';
+const port = process.env.PORT || 3333;
 
-api.listen(3333, () => {
-  console.log("Api iniciada");
+api.use(cors());
+
+api.use('/posts', main);
+
+app.listen(port, host, function () {
+  console.log(`Server started... ${port}`);
 });

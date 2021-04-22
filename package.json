@@ -10,6 +10,7 @@
     "@hapi/hapi": "^20.1.2",
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.6",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "node-fetch": "^2.6.1",
     "node-scrapy": "^0.5.0",
