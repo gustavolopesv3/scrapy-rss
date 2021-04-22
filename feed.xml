@@ -4,91 +4,91 @@
         <description><![CDATA[descrição blog]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Apr 2021 02:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 13:55:22 GMT</lastBuildDate>
         <author><![CDATA[Gustavo Lopes]]></author>
+        <item>
+            <title><![CDATA[CORRIDA PELA IMUNIZAÇÃO]]></title>
+            <description><![CDATA[Busca por informação sobre vacina a portadores de comorbidades em Tarauacá]]></description>
+            <guid isPermaLink="false">CORRIDA PELA IMUNIZAÇÃO</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Thu, 22 Apr 2021 08:55:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CRISE NO ACRE]]></title>
+            <description><![CDATA[Operação Acolhida interiorizou 56 migrantes no Acre, informa governo federal]]></description>
+            <guid isPermaLink="false">CRISE NO ACRE</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Thu, 22 Apr 2021 08:55:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FIQUE ESPERTO]]></title>
+            <description><![CDATA[Delegado detalha golpes e secretária alerta para ação criminosa no WhatsApp]]></description>
+            <guid isPermaLink="false">FIQUE ESPERTO</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Thu, 22 Apr 2021 08:55:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MORTO NA CELA]]></title>
+            <description><![CDATA[Corpo de detento acreano morto em presídio de Cobija foi transladado para Xapuri]]></description>
+            <guid isPermaLink="false">MORTO NA CELA</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Thu, 22 Apr 2021 08:55:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SAIBA MAIS]]></title>
+            <description><![CDATA[Inscrições para 5º Fórum de Dança do Acre e 2º Seminário de Dança estão abertas]]></description>
+            <guid isPermaLink="false">SAIBA MAIS</guid>
+            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
+            <pubDate>Thu, 22 Apr 2021 08:55:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[VAI PRO SENADO]]></title>
             <description><![CDATA[Projeto que retoma ensino presencial na pandemia é aprovado na Câmara dos Deputados]]></description>
             <guid isPermaLink="false">VAI PRO SENADO</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
+            <pubDate>Thu, 22 Apr 2021 08:55:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NÃO TEM VOLTA]]></title>
             <description><![CDATA[Edvaldo descarta retirada de assinaturas da CPI da Educação e diz que número pode aumentar de 9 para 11]]></description>
             <guid isPermaLink="false">NÃO TEM VOLTA</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
+            <pubDate>Thu, 22 Apr 2021 08:55:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[É FOGO!]]></title>
             <description><![CDATA[Incêndio destrói parte de casa abandonada no Cidade Nova na madrugada desta quarta-feira]]></description>
             <guid isPermaLink="false">É FOGO!</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
+            <pubDate>Thu, 22 Apr 2021 08:55:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SUA CHANCE]]></title>
             <description><![CDATA[Ufac divulga edital para mestrado em Ecologia e Manejo de Recursos Naturais]]></description>
             <guid isPermaLink="false">SUA CHANCE</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
+            <pubDate>Thu, 22 Apr 2021 08:55:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IMPASSE NA SAÚDE]]></title>
             <description><![CDATA[Fundação Hospitalar diz que ampliou em 45% atendimento ortopédico em 2021]]></description>
             <guid isPermaLink="false">IMPASSE NA SAÚDE</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
+            <pubDate>Thu, 22 Apr 2021 08:55:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OPORTUNIDADE]]></title>
             <description><![CDATA[Ifac abre inscrições para 480 vagas para cursos superiores em cinco municípios]]></description>
             <guid isPermaLink="false">OPORTUNIDADE</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
+            <pubDate>Thu, 22 Apr 2021 08:55:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LIVE SOLIDÁRIA]]></title>
             <description><![CDATA[Acreano realiza live em São Paulo para ajudar alagados através da campanha SOS ACRE]]></description>
             <guid isPermaLink="false">LIVE SOLIDÁRIA</guid>
             <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AJUDA NA PANDEMIA]]></title>
-            <description><![CDATA[Acre e nove Estados conseguiram prorrogar Lei Aldir Blanc para o setor cultural]]></description>
-            <guid isPermaLink="false">AJUDA NA PANDEMIA</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MUNDO DO ESPORTE]]></title>
-            <description><![CDATA[Prosa de Pedal bate papo com ciclistas de mais de 60 anos no Acre]]></description>
-            <guid isPermaLink="false">MUNDO DO ESPORTE</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RELAÇÃO DO MAL]]></title>
-            <description><![CDATA[Jovem se envolve com mulher de presidiário e é executado a tiros]]></description>
-            <guid isPermaLink="false">RELAÇÃO DO MAL</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OPORTUNIDADE]]></title>
-            <description><![CDATA[Ufac oferta bolsa de R$ 1,2 mil para pós-graduação na área da agropecuária]]></description>
-            <guid isPermaLink="false">OPORTUNIDADE</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DESCASO NA SEGURANÇA]]></title>
-            <description><![CDATA[Servidores administrativos da Segurança que estão há 15 anos sem reajuste pedem ajuda]]></description>
-            <guid isPermaLink="false">DESCASO NA SEGURANÇA</guid>
-            <dc:creator><![CDATA[Gustavo Lopes]]></dc:creator>
-            <pubDate>Wed, 21 Apr 2021 21:03:28 GMT</pubDate>
+            <pubDate>Thu, 22 Apr 2021 08:55:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
