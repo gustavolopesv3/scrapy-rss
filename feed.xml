@@ -1,219 +1,218 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Titulo blog]]></title>
-        <description><![CDATA[descrição blog]]></description>
+        <title><![CDATA[Ac News]]></title>
+        <description><![CDATA[Ultimas noticias do Ac24Horas]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Apr 2021 04:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 15:06:29 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[Cruzeiro do Sul tem 23 pacientes do município de 46 internados no Hospital de Campanha]]></title>
+            <description><![CDATA[Nesta sexta-feira, 23, dos 46 pacientes internados na clínica do Hospital de Campanha de Cruzeiro do Sul, 23 são do próprio município. Na Unidade de Terapia...]]></description>
+            <link>https://ac24horas.com/2021/04/23/cruzeiro-do-sul-tem-23-pacientes-do-municipio-de-46-internados-no-hospital-de-campanha/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/03/HOSPITAL-DO-JURUA-CAMPANHA-400x240.jpg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Servidor da Aleac é mais uma vítima da Covid-19 em Rio Branco]]></title>
+            <description><![CDATA[O servidor da Assembleia Legislativa do Acre (Aleac), Walter Sobreira Lima Filho, 55 anos, é mais uma vítima da Covid-19 na capital acreana. Walter estava internado...]]></description>
+            <link>https://ac24horas.com/2021/04/23/servidor-da-aleac-e-mais-uma-vitima-da-covid-19-em-rio-branco/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/LUTO-ALEAC-400x240.jpg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Caixa paga 1ª parcela do Auxílio a beneficiários do Bolsa Família com NIS final 5]]></title>
+            <description><![CDATA[A Caixa Econômica Federal (Caixa) paga nesta sexta-feira (23) a primeira parcela do Auxílio Emergencial aos beneficiários do Bolsa Família com número do NIS terminado em...]]></description>
+            <link>https://ac24horas.com/2021/04/23/caixa-paga-1a-parcela-do-auxilio-a-beneficiarios-do-bolsa-familia-com-nis-final-5/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2020/06/auxilio-emergencial-400x240.jpg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Missas serão retomadas neste final de semana em Cruzeiro do Sul]]></title>
+            <description><![CDATA[As missas na Catedral Nossa Senhora da Glória, em Cruzeiro do Sul, com a presença de fiéis, serão retomadas neste final de semana, bem como nas...]]></description>
+            <link>https://ac24horas.com/2021/04/23/missas-serao-retomadas-neste-final-de-semana-em-cruzeiro-do-sul/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/BISPO-DOM-FLAVIO-400x240.jpg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deputados participam da entrega de Cartão do Bem em Cruzeiro do Sul]]></title>
+            <description><![CDATA[O presidente da Assembleia Legislativa do Estado do Acre, deputado Nicolau Júnior, acompanhado do primeiro secretário, deputado Luiz Gonzaga (PSDB), Cadmiel Bonfim (PSDB), Maria Antônia (PROS),...]]></description>
+            <link>https://ac24horas.com/2021/04/23/deputados-participaram-da-entrega-de-cartao-do-bem-em-cruzeiro-do-sul/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/IMG-20210423-WA0043-400x240.jpg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tabela do Confaz indica gasolina mais barata e álcool mais caro]]></title>
+            <description><![CDATA[O Conselho Nacional de Política Fazendária (Confaz) divulgou nesta sexta-feira (23) os novos valores que Estados e o Distrito Federal adotarão, a partir de 1º de...]]></description>
+            <link>https://ac24horas.com/2021/04/23/nova-tabela-do-confaz-indica-gasolina-mais-barata-e-alcool-mais-caro/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/03/gasolina-combustivel-800x533-1-400x240.jpeg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Com alta taxa de homicídios, Rio Branco está entre as 50 cidades mais violentas do mundo]]></title>
+            <description><![CDATA[A Organização não governamental (ONG) mexicana Conselho Cidadão para Segurança Pública e Justiça Penal colocou Rio Branco capital do Acre, entre as 50 cidades mais violentas...]]></description>
+            <link>https://ac24horas.com/2021/04/23/com-alta-taxa-de-homicidios-rio-branco-esta-entre-as-50-cidades-mais-violentas-do-mundo/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2020/08/MORTES-MONITOR-400x240.jpg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marechal Thaumaturgo já imunizou segurança, saúde e quatro etnias indígenas]]></title>
+            <description><![CDATA[O município de Marechal Thaumaturgo é um dos primeiros do estado a vacinar contra a Covid-19 ribeirinhos na faixa etária de idade de 30 a 39...]]></description>
+            <link>https://ac24horas.com/2021/04/23/marechal-thaumaturgo-ja-imunizou-seguranca-saude-e-quatro-etnias-indigenas/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/VACINA-2-MARECHAL-400x240.jpg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MDB fora da base de Gladson]]></title>
+            <link>https://ac24horas.com/2021/04/23/mdb-fora-da-base-de-gladson/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/TOCANDOFOGO_MDB_gasolina_2-400x240.jpg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Associação Médica diz que não é hora para “abrandar” restrições contra Covid-19]]></title>
+            <description><![CDATA[Divulgado na manhã desta sexta-feira (23) o boletim extraordinário da Associação Médica Brasileira (AMB) diz que nesta semana foram registrados mais de 14 milhões de casos...]]></description>
+            <link>https://ac24horas.com/2021/04/23/associacao-medica-brasileira-diz-que-nao-e-hora-para-abrandar-restricoes-contra-covid-19/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/ASSOCIACA-MEDICA-400x240.jpg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sem ganhadores, Mega-Sena acumula em R$ 22 milhões; próximo concurso será no sábado]]></title>
+            <description><![CDATA[Sem acertadores, a Mega-Sena sorteada excepcionalmente nesta quinta-feira (22) acumulou em R$ 22 milhões. As dezenas sorteadas foram 20 – 33 – 42 – 44 –...]]></description>
+            <link>https://ac24horas.com/2021/04/23/sem-ganhadores-mega-sena-acumula-em-r-22-milhoes-proximo-concurso-sera-no-sabado/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2018/11/MEGA_01-400x240.jpg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prefeitura suspende IPTU de imóveis atingidos pela enchente na capital]]></title>
+            <description><![CDATA[Foto: Sérgio Vale/ac24horas.com A prefeitura de Rio Branco publicou no Diário Oficial desta sexta-feira, 23, decreto que suspende a cobrança do imposto sobre a propriedade predial...]]></description>
+            <link>https://ac24horas.com/2021/04/23/prefeitura-suspende-iptu-de-imoveis-atingidos-pela-enchente-na-capital/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/02/WhatsApp-Image-2021-02-06-at-4.40.09-PM-400x240.jpeg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bocalom: “Perdido no mato”]]></title>
+            <description><![CDATA[Ao que pese o prefeito Tião Bocalom (PROGRESSISTA) ser tido como uma pessoa honesta, muito embora difícil no trato, não é o suficiente para garantir que...]]></description>
+            <link>https://ac24horas.com/2021/04/23/bocalom-perdido-no-mato/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/BOCALOM-SERGIO-400x240.jpg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A imprensa encontra na pandemia o próprio poço sem fundo]]></title>
+            <description><![CDATA[Como não fazia há tempos, resolvi ver durante esta semana os jornais das TV’s, tentando responder a uma inquietação: “De que realmente está falando a grande...]]></description>
+            <link>https://ac24horas.com/2021/04/23/a-imprensa-encontra-na-pandemia-o-proprio-poco-sem-fundo/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/IMPRENSA-VALTER-400x240.jpg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Políticos que deixam bons exemplos]]></title>
+            <description><![CDATA[EXISTEM políticos que passam pelo mandato, e depois que perdem, no outro dia são esquecidos. Viram mais um na multidão. E, há os cujos nomes ficam...]]></description>
+            <link>https://ac24horas.com/2021/04/23/politicos-que-deixam-bons-exemplos/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2019/08/Nabor-400x240.jpg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[40 homens armados invadem fazenda de dono da Uninorte, roubam veículos e ameaçam peões de morte]]></title>
+            <description><![CDATA[Ao menos 40 homens armados invadiram uma propriedade rural na tarde de quarta-feira (21) no distrito de Vista Alegre do Abunã, em Porto Velho. A fazenda...]]></description>
+            <link>https://ac24horas.com/2021/04/23/40-homens-armados-invadem-fazenda-de-dono-da-uninorte-roubam-veiculos-e-ameacam-peoes-de-morte/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/FAZENDA-RICO-400x240.jpg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Governo publica decreto que permite reabertura do comércio no fim de semana e antecipa salário para a próxima segunda-feira]]></title>
+            <description><![CDATA[Foto: Sérgio Vale/ac24horas.com O comércio vai voltar a funcionar nos finais de semana. O governador Gladson Cameli publicou na edição do Diário Oficial desta sexta-feira, 23,...]]></description>
+            <link>https://ac24horas.com/2021/04/23/governo-publica-decreto-que-permite-reabertura-do-comercio-no-fim-de-semana-e-antecipa-salario-para-a-proxima-segunda-feira/</link>
+            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/CENTRO-RIO-BRANCO-E-BALSEIRO-RIO-VACINA-4-400x240.jpeg</guid>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Governo lança Programa Auxílio do Bem no Vale do Juruá]]></title>
             <description><![CDATA[O governador do Acre Gladson Cameli e a secretária da Estado de Assistência Social, dos Direitos Humanos e de Políticas para as Mulheres (SEASDHM), Ana Paula...]]></description>
             <link>https://ac24horas.com/2021/04/22/governo-lanca-programa-auxilio-do-bem-no-vale-do-jurua/</link>
             <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/AUXILIO-JURUA-1-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Duplicação de 11 km da AC-405 custará R$ 36 milhões ao governo]]></title>
             <description><![CDATA[O governo do Acre autorizou a duplicação da rodovia AC-405 no trecho de 11 quilômetros entre a cidade e o aeroporto de Cruzeiro do Sul. A...]]></description>
             <link>https://ac24horas.com/2021/04/22/duplicacao-de-11-km-da-ac-405-custara-r-36-milhoes-ao-governo/</link>
             <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2019/08/AC-405-1-400x240.jpeg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Saúde de Pando diz que apenas brasileiros com identidade de estrangeiro são vacinados no país]]></title>
             <description><![CDATA[Uma onda de mensagens que circula em grupos de rede social nos últimos dois dias propaga a informação de que brasileiros estão sendo vacinados sem qualquer...]]></description>
             <link>https://ac24horas.com/2021/04/22/pando-diz-que-apenas-brasileiros-com-identidade-de-estrangeiro-sao-vacinados-no-pais/</link>
             <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/VACINA-NA-BOLIVIA-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Governo convoca coletiva e deve oficializar reabertura do comércio aos fins de semana]]></title>
             <description><![CDATA[Foto: Sérgio Vale/ac24horas.com A assessoria do governo do Estado do Acre anunciou na noite desta quinta-feira (22), uma Coletiva por videoconferência, por meio da Secretaria de...]]></description>
             <link>https://ac24horas.com/2021/04/22/governo-convoca-coletiva-e-deve-oficializar-reabertura-do-comercio-aos-fins-de-semana/</link>
             <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/CENTRO-RIO-BRANCO-E-BALSEIRO-RIO-VACINA-13-400x240.jpeg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maioria do STF mantém decisão que declarou Moro parcial ao condenar Lula]]></title>
             <description><![CDATA[O plenário do Supremo Tribunal Federal (STF) formou nesta quinta-feira (22) maioria a favor da manutenção da decisão da Segunda Turma da Corte segundo a qual...]]></description>
             <link>https://ac24horas.com/2021/04/22/maioria-do-stf-mantem-decisao-que-declarou-moro-parcial-ao-condenar-lula/</link>
             <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2020/04/MORO-2-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Polícia prende tia que matou a própria sobrinha por ciúmes do namorado]]></title>
             <description><![CDATA[Na tarde desta quinta-feira, 22, agentes da Polícia Civil em Mâncio Lima prenderam uma mulher, que na companhia de outros criminosos, matou a facadas a adolescente...]]></description>
             <link>https://ac24horas.com/2021/04/22/policia-prende-tia-que-matou-a-propria-sobrinha-por-ciumes-do-namorado-em-mancio-lima/</link>
             <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/SOBRINHA-E-TIA-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colisão frontal entre veículos deixa um morto na rodovia AC-40, em Senador Guiomard]]></title>
             <description><![CDATA[Uma colisão entre uma caminhonete modelo Ranger e um veículo Honda, deixou uma pessoa morta na tarde desta quinta-feira, 22, na rodovia AC-40, nas proximidades do...]]></description>
             <link>https://ac24horas.com/2021/04/22/colisao-frontal-entre-veiculos-deixa-um-morto-na-rodovia-ac-40-em-senador-guiomard/</link>
             <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/CARRO-AC-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Acre receberá mais 9,2 mil doses de vacinas ainda nesta semana]]></title>
             <description><![CDATA[Foto: Sérgio Vale/ac24horas.com Mais 9,2 mil doses de vacinas para combater a Covid-19 estarão sendo enviadas ao Acre pelo Ministério da Saúde no decorrer desta semana....]]></description>
             <link>https://ac24horas.com/2021/04/22/acre-recebera-mais-92-mil-doses-de-vacinas-nesta-semana/</link>
             <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/CENTRO-RIO-BRANCO-E-BALSEIRO-RIO-VACINA-5-400x240.jpeg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apenas 6 vereadores prestigiaram apresentação de Bocalom na Amac]]></title>
             <description><![CDATA[O prefeito Tião Bocalom (Progressistas) prestou contas na tarde desta quinta-feira (22) na sede da Associação dos Municípios do Acre (Amac), das ações dos 100 dias...]]></description>
             <link>https://ac24horas.com/2021/04/22/de-17-apenas-6-vereadores-prestigiaram-apresentacao-de-bocalom/</link>
             <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/BOCA-NA-AMAC-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Plenário do Supremo decide que processos de Lula vão para a Justiça do Distrito Federal]]></title>
             <description><![CDATA[O plenário do Supremo Tribunal Federal (STF) decidiu nesta quinta-feira (22) enviar os processos aos quais responde o ex-presidente Luiz Inácio Lula da Silva para a...]]></description>
             <link>https://ac24horas.com/2021/04/22/plenario-do-supremo-decide-que-processos-de-lula-vao-para-a-justica-do-distrito-federal/</link>
             <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/LULA-2-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colégio Aplicação abre inscrições para alunos de ensino fundamental e médio]]></title>
             <description><![CDATA[O Colégio de Aplicação (CAP) da Universidade Federal do Acre (Ufac) divulgou nesta quinta-feira, 22, edital para seleção de novos alunos para o ano letivo de...]]></description>
             <link>https://ac24horas.com/2021/04/22/colegio-aplicacao-abre-inscricoes-para-alunos-de-ensino-fundamental-e-medio/</link>
             <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2019/10/colegio-aplicacao--400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Em agenda na AMAC, Bocalom volta a defender tratamento precoce da Covid-19 em Rio Branco]]></title>
+            <title><![CDATA[Bocalom volta a defender tratamento precoce da Covid-19]]></title>
             <description><![CDATA[Durante a avaliação dos 100 primeiros dias de gestão na Associação dos Municípios do Acre (Amac), o prefeito Tião Bocalom (Progressistas), voltou a defender nesta quinta-feira...]]></description>
             <link>https://ac24horas.com/2021/04/22/em-agenda-na-amac-bocalom-volta-a-defender-tratamento-precoce-da-covid-19-em-rio-branco/</link>
             <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/BOCALOM-AMAC-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Após série de críticas, articulador da prefeitura diz que Bocalom vai ter líder na Câmara]]></title>
             <description><![CDATA[O articulador da prefeitura de Rio Branco na Câmara de vereadores, ex-deputado estadual Helder Paiva, afirmou ao ac24horas durante agenda na Associação dos Municípios do Acre...]]></description>
             <link>https://ac24horas.com/2021/04/22/apos-serie-de-criticas-articulador-da-prefeitura-diz-que-bocalom-vai-ter-lider-na-camara/</link>
             <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/HELDER-PAIVA-DERGIO-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fernanda Hassem anuncia pagamento da 1ª parcela do 13º salário aos servidores de Brasiléia]]></title>
-            <description><![CDATA[Na manhã de quinta-feira (22), a prefeita Fernanda Hassem realizou em seu gabinete uma coletiva de imprensa para anunciar a antecipação de 50% do 13º salário...]]></description>
-            <link>https://ac24horas.com/2021/04/22/fernanda-hassem-anuncia-pagamento-da-1a-parcela-do-13o-salario-aos-servidores-de-brasileia/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/FERNANDA-BRASILEIA-2-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Acre mantém redução de 3% do ICMS do combustível de aviação]]></title>
-            <description><![CDATA[A alíquota do Imposto sobre Operações relativas à Circulação de Mercadorias e Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), para o...]]></description>
-            <link>https://ac24horas.com/2021/04/22/acre-mantem-reducao-de-3-do-icms-do-combustivel-de-aviacao/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/COMBUSTIVEL-AVIAO-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nicolau Júnior apoia manutenção da pista do aeroporto de Feijó]]></title>
-            <description><![CDATA[O presidente da Assembleia Legislativa do Acre (Aleac), Nicolau Júnior, acompanhou nesta quinta-feira, 22, o governador Gladson Cameli na assinatura ordem de serviço para a manutenção...]]></description>
-            <link>https://ac24horas.com/2021/04/22/nicolau-apoia-manutencao-da-pista-do-aeroporto-de-feijo/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/Feijo-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gonzaga propõe PL que garante direitos e melhor atendimento as pessoas com autismo]]></title>
-            <description><![CDATA[Tramita na Assembleia Legislativa do Acre (Aleac), apresentado pelo deputado Luiz Gonzaga (PSDB), projeto que se propõe a criar um cadastro único de pessoas portadoras do...]]></description>
-            <link>https://ac24horas.com/2021/04/22/gonzaga-propoe-pl-que-garante-direitos-e-melhor-atendimento-as-pessoas-com-autismo/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/03/GONZAGA-ALEAC-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Governo do Acre assina ordem para recuperar pista do aeroporto de Feijó]]></title>
-            <description><![CDATA[O governador Gladson Cameli (Progressistas) assinou nesta quinta-feira, 22, a ordem de serviço de R$ 2,5 milhões para manutenção da pista de pousos e decolagens do...]]></description>
-            <link>https://ac24horas.com/2021/04/22/gladson-assina-ordem-de-recuperacao-da-pista-do-aeroporto-de-feijo-no-valor-de-r-25-milhoes/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/camelinho-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No Acre, só Rio Branco receberá vacina da Pfizer]]></title>
-            <description><![CDATA[Ministério enviará freezers de temperatura ultrabaixa, anuncia Saúde O primeiro milhão de doses da vacina da Pfizer deve ser entregue ao Brasil na próxima semana, mas...]]></description>
-            <link>https://ac24horas.com/2021/04/22/no-acre-so-rio-branco-recebera-vacina-da-pfizer/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/VACINA-DA-PFIZER-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jovem é ferido com tiro de escopeta na frente de sua casa no bairro Vila Acre]]></title>
-            <description><![CDATA[O jovem Luiz Felipe Xavier Araújo, de 19 anos, foi ferido com um tiro de escopeta na tarde desta quinta-feira, 22, no Ramal da Castanheira, no...]]></description>
-            <link>https://ac24horas.com/2021/04/22/jovem-e-ferido-com-tiro-de-escopeta-na-frente-de-sua-casa-no-bairro-vila-acre/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/1619122755757-1-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Câmara aprova PL relatado por Vanda Milani que assegura direitos entre homens e mulher]]></title>
-            <description><![CDATA[A deputada federal Vanda Milani (Solidariedade-AC) foi a relatora do PL 1.943 de 2019 aprovado pela Câmara dos Deputados na manhã de hoje (22). Dispõe sobre...]]></description>
-            <link>https://ac24horas.com/2021/04/22/camara-aprova-pl-relatado-por-vanda-milani-que-assegura-direitos-e-deveres-entre-homens-e-mulher/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/VANDA-MILANI-2-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Acre tem mais de 300 novos casos e 9 mortes pela Covid-19 em 24 horas]]></title>
-            <description><![CDATA[A Secretaria de Estado de Saúde do Acre (Sesacre) registra 9 mortes e 333 novos casos de infecção por coronavírus nesta quinta-feira, 22, sendo 221 casos...]]></description>
-            <link>https://ac24horas.com/2021/04/22/acre-tem-mais-de-300-novos-casos-e-9-mortes-pela-covid-19/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/02/UTI-INTO-4-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Calegário acredita que Gladson não vai suspender contrato com terceirizados]]></title>
-            <description><![CDATA[O deputado estadual Fagner Calegário (Podemos) comentou nesta quinta-feira (22) a recente declaração do governador Gladson Cameli (Progressistas) que iria suspender os contratos com empresas terceirizadas...]]></description>
-            <link>https://ac24horas.com/2021/04/22/calegario-acredita-que-gladson-nao-vai-suspender-contrato-com-terceirizados/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/CALEGARIO-ALEAC-2--400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“Vamos abrir o comércio. Mas não vamos abrir de qualquer jeito”, diz Zequinha Lima em reunião]]></title>
-            <description><![CDATA[Em reunião com representantes do comércio, das igrejas e classes dos taxistas, mototaxistas e do transporte, o prefeito Zequinha Lima reafirmou a decisão da gestão de...]]></description>
-            <link>https://ac24horas.com/2021/04/22/zequinha-lima-vamos-abrir-o-comercio-mas-nao-vamos-abrir-de-qualquer-jeito/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/183ed017-c8ec-4079-b5af-f7d4cd3eebce-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aliança pelo turismo no Pós-Covid-19]]></title>
-            <description><![CDATA[Turismo Sustentável é o tema central do evento, que apresentará também um relatório com o panorama do setor da Cultura e do Turismo na Bahia, Ceará...]]></description>
-            <link>https://ac24horas.com/2021/04/22/alianca-pelo-turismo-no-pos-covid-19/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/TURISMO-SUSTENTAVEL-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inscrições para a 16ª Olimpíada Brasileira de Matemática são reabertas]]></title>
-            <description><![CDATA[Instituições da rede pública e privada devem inscrever seus alunos até 30 de abril Escolas interessadas em inscrever seus alunos na 16ª edição da Olimpíada Brasileira...]]></description>
-            <link>https://ac24horas.com/2021/04/22/inscricoes-para-a-16a-olimpiada-brasileira-de-matematica-sao-reabertas/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/FOTO-1-4-400x240.jpeg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MPF aciona governo do Acre e União para priorizar índios em vacinação]]></title>
-            <description><![CDATA[O Ministério Público Federal (MPF) ajuizou ação civil pública com a intenção de forçar a União e o Estado do Acre a incluir os indígenas não...]]></description>
-            <link>https://ac24horas.com/2021/04/22/mpf-aciona-governo-do-acre-e-uniao-para-priorizar-indios-em-vacinacao/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/03/vacina-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diretoria do Igesac nega terceirização da UPA da Sobral]]></title>
-            <description><![CDATA[Os servidores de saúde da UPA – Unidade de Pronto Atendimento, localizado na Sobral, realizaram uma manifestação nesta quinta-feira (22) alegando que haveria uma terceirização do...]]></description>
-            <link>https://ac24horas.com/2021/04/22/diretoria-do-igesac-nega-terceirizacao-da-upa-da-sobral/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/02/UPA-2b-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Governo informa que problema na ETA I afeta abastecimento de água em Rio Branco]]></title>
-            <description><![CDATA[O Departamento Estadual de Água e Saneamento do Acre (Depasa) informou na manhã desta quinta-feira, 22, que devido a problemas nos conjuntos de motobomba da Estação...]]></description>
-            <link>https://ac24horas.com/2021/04/22/governo-informa-que-problema-na-eta-i-afeta-abastecimento-de-agua-em-rio-branco/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2020/08/DEPASA-ETA-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MP pressiona e governo vive impasse sobre publicar decreto que libera comércio nos finais de semana]]></title>
-            <description><![CDATA[O promotor de saúde do Ministério Público do Acre (MP-AC), Gláucio Oshiro, se posicionou ao ac24horas na manhã desta quinta-feira (22), contra ao anúncio feito pelo...]]></description>
-            <link>https://ac24horas.com/2021/04/22/mp-pressiona-e-governo-vive-impasse-sobre-publicar-decreto-que-libera-comercio-nos-finais-de-semana/</link>
-            <guid isPermaLink="false">https://ac24horas.com/wp-content/uploads/2021/04/GLAUCIO-OSHIRO-E-GLADSON-400x240.jpg</guid>
-            <pubDate>Thu, 22 Apr 2021 23:26:10 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 10:06:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
