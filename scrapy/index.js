@@ -66,16 +66,7 @@ function createRss(cards) {
       description: dados.contentCard,
       date: dataBase,
       url: dados.linkCard,
-      custom_elements: [
-        {
-          image: {
-            _attr: {
-              href: dados.imgCard,
-            },
-          },
-        },
-      ],
-      // custom_elements: [{ image: dados.imgCard }],
+      guid: dados.imgCard,
     });
   }
   cards = "";
