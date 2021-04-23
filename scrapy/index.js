@@ -44,6 +44,7 @@ const main = async () => {
   });
   try {
     createRss(cards);
+    console.log(cards);
   } catch (error) {
     console.log(error);
   }
@@ -61,13 +62,15 @@ function createRss(cards) {
   var dataBase = data2.toISOString().replace(/\.\d{3}Z$/, "");
 
   for (const dados of cards) {
-    feed.item({
-      title: dados.titleCard,
-      description: dados.contentCard,
-      date: dataBase,
-      url: dados.linkCard,
-      guid: dados.imgCard,
-    });
+    if (dados.titleCard != "") {
+      feed.item({
+        title: dados.titleCard,
+        description: dados.contentCard,
+        date: dataBase,
+        url: dados.linkCard,
+        guid: dados.imgCard,
+      });
+    }
   }
   cards = "";
   let xml = feed.xml({ indent: true });
@@ -75,7 +78,6 @@ function createRss(cards) {
   fs.writeFileSync("./feed.xml", xml);
   xml = null;
   feed = null;
-  console.log(xml);
 }
 
 module.exports = router;
