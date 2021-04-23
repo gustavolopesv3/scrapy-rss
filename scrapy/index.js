@@ -68,7 +68,7 @@ function createRss(cards) {
       url: dados.linkCard,
       custom_elements: [
         {
-          "itunes:image": {
+          image: {
             _attr: {
               href: dados.imgCard,
             },
